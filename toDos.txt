@@ -1,0 +1,3 @@
+when two aces on deal, they equal 22 instead of 12
+
+doubling down you win if dealer busts even if you bust
